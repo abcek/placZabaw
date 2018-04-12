@@ -2,5 +2,6 @@ zajêcia z GIT
 
 test konfliktu 
 trzeci commit
+czwarty komit
 
 Mateusz Banaszek 

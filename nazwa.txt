@@ -5,3 +5,5 @@ trzeci commit
 czwarty komit
 
 Mateusz Banaszek 
+
+komentarze sa wazne
